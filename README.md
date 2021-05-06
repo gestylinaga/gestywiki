@@ -7,7 +7,7 @@ by: [Gesty Linaga](https://github.com/gestylinaga)
 
 - Hand-typed, personal wiki of Computer Science topics I've learned so far.
 - Made with:
-    * Vim
-    * Neovim
-    * SpaveVim
-    * Vimwiki
+    * [Vim](https://www.vim.org/)
+    * [Neovim](https://neovim.io/)
+    * [SpaveVim](https://spacevim.org/)
+    * [Vimwiki](https://github.com/vimwiki/vimwiki)
