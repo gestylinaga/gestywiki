@@ -1,0 +1,10 @@
+= Gestywiki =
+- Things that I've learned so far...
+
+* Operating Systems
+    * [[Linux]]
+    * [[Windows]]
+
+* Programming Languages
+    * [[Python]]
+    * [[Markdown]]
