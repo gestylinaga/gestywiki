@@ -1,12 +1,13 @@
-![gestywiki: Personal wiki of things I've learned so far](docs/gestywiki.png)
-# gestywiki
-Personal wiki of things I've learned so far
+# Gestywiki 
+![gestywiki.png](docs/gestywiki.png)
 
-Made with:
-* Vim
-* Neovim
-* SpaveVim
-* Vimwiki
+
+- Personal wiki of things I've learned so far
+- Made with:
+    * Vim
+    * Neovim
+    * SpaveVim
+    * Vimwiki
 
 [Table of Contents](docs/index.wiki)
 
