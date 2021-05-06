@@ -1,3 +1,4 @@
+![gestywiki: Personal wiki of things I've learned so far](docs/gestywiki.png)
 # gestywiki
 Personal wiki of things I've learned so far
 
