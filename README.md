@@ -7,6 +7,6 @@ Made with:
 * SpaveVim
 * Vimwiki
 
-**Table of Contents** in docs/index.wiki
+[Table of Contents](docs/index.wiki)
 
 by: [Gesty Linaga](https://github.com/gestylinaga)
