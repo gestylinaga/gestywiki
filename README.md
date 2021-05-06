@@ -1,2 +1,12 @@
 # gestywiki
-Personal wiki of things I've learned
+Personal wiki of things I've learned so far
+
+Made with:
+* Vim
+* Neovim
+* SpaveVim
+* Vimwiki
+
+**Table of Contents** in docs/index.wiki
+
+by: [Gesty Linaga](https://github.com/gestylinaga)
