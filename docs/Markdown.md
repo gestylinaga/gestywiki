@@ -8,3 +8,5 @@
     + see Pandoc
 
 [Syntax Cheatsheet Link](mdCheatsheet.md)
+
+[back to Index/Table of Contents](index.md)

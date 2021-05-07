@@ -3,20 +3,20 @@
 [Official Site](https://www.debian.org/)
 
 Stable Release Linux distribution
-- A few major updates across the year, as opposed a constant stream of updates.
+- A few major updates spread out across the year, as opposed a constant stream of updates.
 
 [Apt](APT.md) -- package manager; similar to [Pacman](Pacman.md) for [Arch](Arch.md)
 
-ie: full upgrade
+ie: full system upgrade
 ```
 sudo apt update && sudo apt upgrade
 ```
 
 ## Advantages/Disadvantages:
 * "Stable Release"
-    + Official Repository is 'stable'; things are just gonna work
-    - Missing some of the latest software; can still be compiled manually
-* EZPZ Install
+    + 'stable' means reliable; things are just gonna work
+    - Official Repo's don't always have latest software; can always compile things manually
+* EZ PZ Install
     + Hassle-free GUI installer; click 'next' until you're done
     - Uneeded software; takes time to debloat everything you don't need
 
@@ -29,6 +29,13 @@ sudo apt update && sudo apt upgrade
 ---
 
 * Named after [Toy Story](https://en.wikipedia.org/wiki/Toy_Story) Characters:
-    - Buster
-    - Jessie
-    - Sid
+    - Buster -- Debian 10.0
+    - Stretch -- Debian 9.0
+    - Jessie -- Debian 8.0
+    - Wheezy -- Debian 7.0
+    - Squeeze -- Debian 6.0
+    - Sid -- codename for 'Unstable' branch of Debian
+
+---
+
+[back to Index/Table of Contents](index.md)

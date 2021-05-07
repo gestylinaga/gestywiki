@@ -1,6 +1,6 @@
 2021-05-06
     * Added CHANGELOG
-    * Ditching vimwiki, switching to just .md & github
+    * Ditched vimwiki, switching to just .md & github
     * Added Arch.md
     * Added Pacman.md
     * Added Paru.md
@@ -15,3 +15,4 @@
     * Added Windows.md
     * Added Chocolatey.md
     * Added RaspberryPi.md
+    * Added index link to all existing docs

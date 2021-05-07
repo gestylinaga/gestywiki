@@ -15,3 +15,7 @@
 * EZ Install
     + Textbook example of easy installer
     - No choice in shipped software
+
+---
+
+[back to Index/Table of Contents](index.md)

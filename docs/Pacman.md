@@ -44,3 +44,7 @@ sudo pacman -S --needed - < packageslist.txt
 
 ## Config
 * Location -- /etc/pacman.conf
+
+---
+
+[back to Index/Table of Contents](index.md)

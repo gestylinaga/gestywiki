@@ -29,3 +29,5 @@ choco upgrade all -y
 choco list --local-only
 clist -l
 ```
+
+[back to Index/Table of Contents](index.md)

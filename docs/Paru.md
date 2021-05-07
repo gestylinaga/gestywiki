@@ -21,3 +21,7 @@ paru
 ```
 paru -c
 ```
+
+---
+
+[back to Index/Table of Contents](index.md)
