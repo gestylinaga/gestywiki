@@ -2,13 +2,12 @@
 
 ![gestywiki.png](docs/gestywiki.png)
 
-* Hand-typed, Personal CompSci Wiki
+* Hand-typed Personal Wiki
 * by: [Gesty Linaga](https://github.com/gestylinaga)
 
-[Table of Contents](docs/index.wiki)
+[Table of Contents](docs/index.md)
 
-- Made with:
-    * [Vim](https://www.vim.org/)
-    * [Neovim](https://neovim.io/)
-    * [SpaveVim](https://spacevim.org/)
-    * [Vimwiki](https://github.com/vimwiki/vimwiki)
+* Made with:
+    - [Vim](https://www.vim.org/)
+    - [Neovim](https://neovim.io/)
+    - [SpaveVim](https://spacevim.org/)
