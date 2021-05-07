@@ -5,6 +5,7 @@
 ![gestywiki.png](imgs/gestywiki.png)
 
 * Hand-typed Personal Wiki
+* [Markdown Syntax Cheatsheet](docs/mdCheatsheet.md)
 * by: [Gesty Linaga](https://github.com/gestylinaga)
 
 
