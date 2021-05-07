@@ -1,9 +1,9 @@
 # Linux
 
 * Distrubutions aka Distros
-    - [Arch](docs/Arch.md)
+    - [Arch](Arch.md)
         + Manjaro
         + Arco
-    - [Debian](docs/Debian.md)
+    - [Debian](Debian.md)
         + Ubuntu
         + Raspbian/ Raspberry Pi OS

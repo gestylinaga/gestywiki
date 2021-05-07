@@ -10,11 +10,11 @@
     - Constant stream of software updates as opposed to a few major updates across a 
       year.
 
-[Pacman](docs/Pacman.md) -- packagage manager
+[Pacman](Pacman.md) -- packagage manager
 
 AUR -- Arch User Repository
     - User-maintained repos for most things not found in the official Arch repos.
-    - [Paru](docs/Paru.md) -- "AUR helper"; similar to Yay
+    - [Paru](Paru.md) -- "AUR helper"; similar to Yay
 
 * Advantages/Disadvantages:
     * "Bleeding Edge" --

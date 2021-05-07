@@ -3,7 +3,7 @@
 **Table of Contents:**
 
 * Operating Systems
-    - [Linux](docs/Linux.md)
+    - [Linux](Linux.md)
     - Windows
 
 * Programming Languages
