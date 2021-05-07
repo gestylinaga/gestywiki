@@ -2,7 +2,7 @@
 
 [Table of Contents](docs/index.md)
 
-![gestywiki.png](docs/gestywiki.png)
+![gestywiki.png](imgs/gestywiki.png)
 
 * Hand-typed Personal Wiki
 * by: [Gesty Linaga](https://github.com/gestylinaga)
