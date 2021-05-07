@@ -4,6 +4,7 @@ Package Manager for Microsoft [Windows](Windows.md)
 
 > Commands should be run as admin
 >> right click on Start icon
+>
 >> Windows Powershell (Admin) 
 
 ## Commands
