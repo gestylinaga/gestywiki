@@ -8,5 +8,5 @@
 
 * Languages
     - Python
-    - [Markdown](docs/Markdown.md)
+    - [Markdown](Markdown.md)
     - C
