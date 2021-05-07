@@ -1,6 +1,7 @@
 # Linux
 
-* Distrubutions aka Distros
+## Distributions
+* aka Distros
     - [Arch](Arch.md)
         + Manjaro
         + Arco
