@@ -1,5 +1,11 @@
 2021-05-06
     * Added CHANGELOG
     * Ditching vimwiki, switching to just .md & github
+    * Added Arch.md
+    * Added Pacman.md
+    * Added Paru.md
     * Added imgs subdirectory
+    * Moved gestywiki.png to imgs subdir
+    * Added Debian.md
     * Added markdown cheatsheet
+    * Added Markdown.md

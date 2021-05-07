@@ -6,7 +6,7 @@
     - [Linux](Linux.md)
     - Windows
 
-* Programming Languages
+* Languages
     - Python
-    - Markdown
+    - [Markdown](docs/Markdown.md)
     - C
