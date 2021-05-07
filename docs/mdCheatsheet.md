@@ -1,4 +1,4 @@
-# Markdown Cheatseet
+# Markdown Cheatsheet
 by: [Gesty Linaga](https://github.com/gestylinaga)
 
 ## Basic Syntax
