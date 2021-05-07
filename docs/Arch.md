@@ -4,7 +4,7 @@
 "Rolling Release" Linux distribution
 - Constant stream of software updates as opposed to a few major updates across a year.
 
-[Pacman](Pacman.md) -- packagage manager; similar to Apt for Debian 
+[Pacman](Pacman.md) -- packagage manager; similar to [APT](APT.md) for [Debian](Debian.md) 
 
 ie: full upgrade
 ```

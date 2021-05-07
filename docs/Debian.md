@@ -5,7 +5,7 @@
 Stable Release Linux distribution
 - A few major updates across the year, as opposed a constant stream of updates.
 
-[Apt](Apt.md) -- package manager; similar to Pacman for Arch
+[Apt](APT.md) -- package manager; similar to [Pacman](Pacman.md) for [Arch](Arch.md)
 
 ie: full upgrade
 ```
