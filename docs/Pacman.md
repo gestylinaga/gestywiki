@@ -1,9 +1,9 @@
 # Pacman
 
 Package manager for Arch Linux, and distros based on Arch Linux ie:
-    * Manjaro
-    * Arco
-    * Alpine
+* Manjaro
+* Arco
+* Alpine
     
 ## Commands
 
