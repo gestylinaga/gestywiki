@@ -7,4 +7,4 @@
 - Easy conversion to pdf or html if needed
     + see Pandoc
 
-[Syntax Cheatsheet Link](docs/mdCheatsheet.md)
+[Syntax Cheatsheet Link](mdCheatsheet.md)
