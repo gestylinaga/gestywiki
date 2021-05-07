@@ -5,5 +5,5 @@
         + Manjaro
         + Arco
     - [Debian](Debian.md)
-        + Ubuntu
         + Raspbian/ Raspberry Pi OS
+        + Kali

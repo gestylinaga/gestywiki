@@ -7,6 +7,6 @@
     - Windows
 
 * Languages
-    - Python
     - [Markdown](Markdown.md)
+    - Python
     - C
