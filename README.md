@@ -1,7 +1,5 @@
 # Gestywiki 
 
-![gestywiki.png](imgs/gestywiki.png)
-
  **[Index | Table of Contents | Start Here](docs/index.md)**
 
 * A Hand-typed, Personal Wiki of the things I've learned so far...
@@ -11,3 +9,5 @@
     + Hosted completely on [Github.com](https://github.com)
     
 * by: [Gesty Linaga](https://github.com/gestylinaga)
+
+![gestywiki.png](imgs/gestywiki.png)
