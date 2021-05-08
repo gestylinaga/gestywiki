@@ -1,51 +1,48 @@
 # Index
-
 ## Table of Contents:
 
-[Linux](Linux.md) -- Operating System
++ [Linux](Linux.md) -- Operating System
 
-* **Distributions:**
+    * **Distributions:**
+        + [Arch](Arch.md) -- Rolling Release distro
+            - [Pacman](Pacman.md) -- Package Manager
+            - [Paru](Paru.md) -- AUR Helper
+            - **Arch-Based Distros:**
+                + Manjaro
+                + Arco
+                + Alpine
+        + [Debian](Debian.md) -- Stable Release distro
+            - [APT](APT.md) -- Package Manager
+            - **Debian-Based Distros:**
+                + Ubuntu
+                + Rasbian (Raspberry Pi OS)
+                + Kali
 
-    + [Arch](Arch.md) -- Rolling Release distro
-        - [Pacman](Pacman.md) -- Package Manager
-        - [Paru](Paru.md) -- AUR Helper
-        - **Arch-Based Distros:**
-            + Manjaro
-            + Arco
-            + Alpine
+        + Fedora -- "Linux for 'Enterprise'"
+    
+        + Gentoo -- "Compile everything yourself"
+    
+        + Android -- phone OS
 
-    + [Debian](Debian.md) -- Stable Release distro
-        - [APT](APT.md) -- Package Manager
-        - **Debian-Based Distros:**
-            + Ubuntu
-            + Rasbian (Raspberry Pi OS)
-            + Kali
++ [Windows](Windows.md) -- Operating System
+    * Windows 10 -- most recent version
+        - [Chocolatey](Chocolatey.md) -- Package Manager
 
-    + Fedora -- "Linux for 'Enterprise'"
-
-    + Gentoo -- "Compile it all yourself"
-
-[Windows](Windows.md) -- Operating System
-- [Chocolatey](Chocolatey.md) -- Package Manager
-
-ios -- Operating System; iphone OS; idontknowshitaboutthis
++ Mac -- Operating System
+    - iOS -- iphone OS
 
 ### Programming Languages
 
-[Markdown](Markdown.md) -- For note-taking & blog writing
-- [Cheatsheet](mdCheatsheet.md) -- Syntax Cheatsheet
++ [Markdown](Markdown.md) -- For note-taking & blog writing
+    - [Cheatsheet](mdCheatsheet.md) -- Syntax Cheatsheet
 
-Python -- workinprogress
++ Python -- workinprogress
 
-C -- workinprogress
++ C -- workinprogress
 
 ### Raspberry Pi
-
-[Raspberry Pi](RaspberryPi.md) -- Single-Board Computer
-
-ARM -- Processor Architecture
-
-- **Distributions:**
++ [Raspberry Pi](RaspberryPi.md) -- Single-Board, ARM-based Computer
+    - **Distributions:**
     + Raspberry Pi OS (Raspbian) -- Most Popular desktop OS for Raspberry Pi
     + Retropie -- Retro Remulator front-end
     + Arch ARM -- arml7 version of Arch distro
