@@ -3,12 +3,12 @@
 > taken to calling it, GNU plus Linux." - [Richard Stallman](https://www.lurkmore.com/view/GNU/Linux_rant)
  
 That quote is half true, because 'Linux' isn't the only thing responsible for a
-complete system, but it's an important part. By itself, the Linux kernal simply acts as 
+complete system, but it's an important part. By itself, the Linux kernel simply acts as 
 the "middle-man" between the hardware in your computer, and your software. For example,
 when opening ***another*** Chrome tab, 'Linux' allocates whatever resources are needed,
 in this case RAM, and gives those to Chrome. This means that 'Linux' alone 
-is not the whole picture, but colloquially when people say 'Linux' they mean the overall 
-complete operating system.
+is not the whole picture, but colloquially when people say 'Linux' they mean the 
+overall complete operating system.
 
 * Software comes in "packages" 
     - All installed packages can be upgraded at once, with one command
