@@ -1,6 +1,8 @@
 # Markdown Cheatsheet
 by: [Gesty Linaga](https://github.com/gestylinaga)
 
+[Markdown main page](Markdown.md)
+
 ## Basic Syntax
 ```text
 # Header1
@@ -79,5 +81,6 @@ by: [Gesty Linaga](https://github.com/gestylinaga)
 ```
 
 ---
+[Markdown main page](Markdown.md)
 
 [back to Index/Table of Contents](index.md)
