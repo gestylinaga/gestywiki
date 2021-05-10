@@ -32,7 +32,7 @@ overall complete operating system.
         + Arco
     - [Debian](Debian.md) -- "Stable release"
         + Raspbian/ Raspberry Pi OS
-        + Kali
+        + [Kali](Kali.md)
     - Fedora -- "Linux for 'Enterprise'"
     - Gentoo -- "Compile everything yourself"
     - Android -- phone OS

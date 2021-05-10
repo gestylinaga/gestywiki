@@ -16,7 +16,7 @@
             - **Debian-Based Distros:**
                 + Ubuntu
                 + Rasbian (Raspberry Pi OS)
-                + Kali
+                + [Kali](Kali.md)
 
         + Fedora -- "Linux for 'Enterprise'"
     

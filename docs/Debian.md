@@ -36,6 +36,7 @@ sudo apt update && sudo apt upgrade
     - Squeeze -- Debian 6.0
     - Sid -- codename for 'Unstable' branch of Debian
 
+* See also: [Kali Linux](Kali.md) -- penetration testing distro based on Debian
 ---
 
 [back to Index/Table of Contents](index.md)
