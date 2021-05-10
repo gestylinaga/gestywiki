@@ -1,6 +1,6 @@
 # Kali Linux
 
-Official [Site](https://www.kali.org/)
+[Official Site](https://www.kali.org/)
 
 Penetration Testing distribution
 

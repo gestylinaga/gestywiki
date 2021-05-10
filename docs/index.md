@@ -16,7 +16,7 @@
             - **Debian-Based Distros:**
                 + Ubuntu
                 + Rasbian (Raspberry Pi OS)
-                + [Kali](Kali.md)
+                + [Kali](Kali.md) -- penetration testing
 
         + Fedora -- "Linux for 'Enterprise'"
     
