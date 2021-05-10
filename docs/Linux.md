@@ -20,7 +20,7 @@ overall complete operating system.
         + this means no nefarious code
         + anyone can add/copy/build on the code for their own use
 
-## Architechures
+## Architectures
 * x86_64 -- most recent/common
 * i386 -- seen on older laptops/hardware
 * ARM -- see [Raspberry Pi](RaspberryPi.md)
