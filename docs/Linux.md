@@ -44,7 +44,7 @@ overall complete operating system.
     + Learning Linux means pretty much learning how "the internet" works
     + Learning Linux means pretty much learning how "the modern world" works
 
-* Desktop use not as popular as [Windows](Windows.md)
+* Desktop use not as popular as the alternatives: [Windows](Windows.md)
     - Hassle to get your favorite Windows programs working on Linux
     - "Gaming" on Linux, while getting better, does not beat Windows
 
@@ -76,7 +76,7 @@ overall complete operating system.
 
 * Window Managers -- just like the name says, Window Managers just manage windows, nothing else
 
-    - **Tiling** -- windows automatically take up feel screen, and resize as new windows are added
+    - **Tiling** -- windows automatically take up full screen, and resize as new windows are added
 
         - i3 -- beginner-friendly tiling window manager
 
