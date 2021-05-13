@@ -3,10 +3,10 @@
 > taken to calling it, GNU plus Linux." - [Richard Stallman](https://www.lurkmore.com/view/GNU/Linux_rant)
  
 That quote is half true, because 'Linux' isn't the only thing responsible for a
-complete system, but it's an important part. By itself, the Linux kernel simply acts as 
-the "middle-man" between the hardware in your computer, and your software. For example,
-when opening ***another*** Chrome tab, 'Linux' allocates whatever resources are needed,
-in this case RAM, and gives those to Chrome. This means that 'Linux' alone 
+complete operating system, but it's an important part. By itself, the Linux kernel simply acts as 
+acts as the "middle-man" between the hardware in your computer, and your software. For 
+example, when opening ***another*** Chrome tab, 'Linux' allocates whatever resources are needed,
+in this case RAM, and gives those to 'Chrome', the program. This means that 'Linux' alone 
 is not the whole picture, but colloquially when people say 'Linux' they mean the 
 overall complete operating system.
 
@@ -21,8 +21,8 @@ overall complete operating system.
         + anyone can add/copy/build on the code for their own use
 
 ## Architectures
-* x86_64 -- most recent/common
-* i386 -- seen on older laptops/hardware
+* x86_64 -- amd64, 64-bit, most modern
+* i386 -- x86, 32-bit, seen on older laptops/hardware
 * ARM -- see [Raspberry Pi](RaspberryPi.md)
 
 ## Distributions
@@ -32,7 +32,7 @@ overall complete operating system.
         + Arco
     - [Debian](Debian.md) -- "Stable release"
         + Raspbian/ Raspberry Pi OS
-        + [Kali](Kali.md)
+        + [Kali](Kali.md)-- Security/Penetration Testing
     - Fedora -- "Linux for 'Enterprise'"
     - Gentoo -- "Compile everything yourself"
     - Android -- phone OS
@@ -55,9 +55,9 @@ overall complete operating system.
     + **Endless** options in "ricing" your desktop
 
 ## " Ricing "
-> "Ricing" refers to customizing your desktop. Things like fonts, theme colors, wallpapers,
-> window behavior, preferred programs/apps and overall user-experience can  all be fully 
-> customized and therefore "riced"
+> "Ricing" refers to customizing the visual aspects ofyour desktop. Things like fonts, 
+> terminal colors, wallpapers, window behavior, preferred programs/apps and overall 
+> user-experience can all be fully customized and therefore "riced"
 
 * Full Desktop Environments -- come with a status bar/menu system/preinstalled apps
     - GNOME

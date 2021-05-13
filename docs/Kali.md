@@ -12,9 +12,23 @@ Penetration Testing distribution
 
     - uses [APT](APT.md) package manager
 
-* Uses XFCE desktop environment
+* Uses Xfce desktop environment by default, but Kali official repositories include:
 
-    - GNOME also available on older versions
+    - GNOME 
+
+    - i3
+
+    - KDE
+
+    - MATE
+
+* Uses zsh as default shell
+
+    - BASH -- Born Again SHell -- also preinstalled 
+
+* qterminal -- default terminal emulator
+
+* Firefox -- default web browser
 
 ---
 
