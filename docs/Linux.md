@@ -59,24 +59,32 @@ overall complete operating system.
 > terminal colors, wallpapers, window behavior, preferred programs/apps and overall 
 > user-experience can all be fully customized in Linux and therefore "riced".
 
-* Full Desktop Environments -- come with a status bar/menu system/preinstalled apps
-    - GNOME
-    - KDE Plasma
-    - XFCE
-
-* Window Managers -- just like the name says, Window Managers just manage windows, nothing else
-    - Tiling
-        - i3wm
-        - qtile
-    - Floating
-        - openbox
-
 | Desktop Environments                             | vs    | Window Managers          |
 | :---:                                            | :---: | :---:                    |
 | Complete                                         |       | Lightweight              |
 | Limited customizability; no configuration needed |       | **Full** customizabilty  |
 | Preinstalled programs/apps                       |       | Minimal Install          |
 | Trust the devs, it's gonna work                  |       | You built it, you fix it |
+
+* Full Desktop Environments -- come with a status bar/menu system/preinstalled apps
+
+    - GNOME
+
+    - KDE Plasma
+
+    - Xfce
+
+* Window Managers -- just like the name says, Window Managers just manage windows, nothing else
+
+    - **Tiling** -- windows automatically take up feel screen, and resize as new windows are added
+
+        - i3 -- beginner-friendly tiling window manager
+
+        - qtile -- written in python
+
+    - **Floating** -- windows 'float' on the desktop, similar to window behavior in Microsoft Windows
+
+        - openbox
 
 ---
 
