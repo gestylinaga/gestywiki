@@ -3,7 +3,7 @@
 > taken to calling it, GNU plus Linux." - [Richard Stallman](https://www.lurkmore.com/view/GNU/Linux_rant)
  
 That quote is half true, because 'Linux' isn't the only thing responsible for a
-complete operating system, but it's an important part. By itself, the Linux kernel simply acts as 
+complete operating system, but it's an important part. By itself, the Linux kernel simply
 acts as the "middle-man" between the hardware in your computer, and your software. For 
 example, when opening ***another*** Chrome tab, 'Linux' allocates whatever resources are needed,
 in this case RAM, and gives those to 'Chrome', the program. This means that 'Linux' alone 
@@ -21,7 +21,7 @@ overall complete operating system.
         + anyone can add/copy/build on the code for their own use
 
 ## Architectures
-* x86_64 -- amd64, 64-bit, most modern
+* amd64 -- x86_64, 64-bit, most modern
 * i386 -- x86, 32-bit, seen on older laptops/hardware
 * ARM -- see [Raspberry Pi](RaspberryPi.md)
 
@@ -39,7 +39,7 @@ overall complete operating system.
 
 ## Advantages/Disadvantages
 
-* Used on almost **all** servers in the world
+* Used on majority of servers in the world
     + Learning Linux means pretty much learning how "computers" work
     + Learning Linux means pretty much learning how "the internet" works
     + Learning Linux means pretty much learning how "the modern world" works
@@ -55,9 +55,9 @@ overall complete operating system.
     + **Endless** options in "ricing" your desktop
 
 ## " Ricing "
-> "Ricing" refers to customizing the visual aspects ofyour desktop. Things like fonts, 
+> "Ricing" refers to customizing the cosmetic aspects of your desktop. Things like fonts, 
 > terminal colors, wallpapers, window behavior, preferred programs/apps and overall 
-> user-experience can all be fully customized and therefore "riced"
+> user-experience can all be fully customized in Linux and therefore "riced".
 
 * Full Desktop Environments -- come with a status bar/menu system/preinstalled apps
     - GNOME
