@@ -16,7 +16,7 @@ sudo pacman -Syu
 >
 >User-maintained repos for most things not found in the official Arch repos.
 
-## Advantages/Disadvantages:
+## Advantages/Disadvantages over a Stable Release:
 * "Bleeding Edge":
     + always up-to-date; latest software
     - instability; constant upgrades means things ***can*** break across updates

@@ -12,7 +12,7 @@ ie: full system upgrade
 sudo apt update && sudo apt upgrade
 ```
 
-## Advantages/Disadvantages:
+## Advantages/Disadvantages over a Rolling Release: 
 * "Stable Release"
     + 'stable' means reliable; things are just gonna work
     - Official Repo's don't always have latest software; can always compile things manually
