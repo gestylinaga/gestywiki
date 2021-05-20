@@ -2,18 +2,18 @@
 
  **[Index | Table of Contents | Start Here](docs/index.md)**
 
-* A Hand-typed, Personal Wiki of the things I've learned so far...
+A Hand-typed, Personal Wiki of the things I've learned so far...
 
-    + Written in [markdown](docs/Markdown.md) syntax
++ Written entirely in [Markdown](docs/Markdown.md) syntax
 
-    + Using [neovim](https://neovim.io) as an editor
++ Using [Neovim](https://neovim.io) as an editor
 
-    + Uploaded using [git](https://git-scm.com)
++ Uploaded using [Git](https://git-scm.com)
 
-    + Hosted completely on [Github.com](https://github.com)
++ Hosted completely on [Github.com](https://github.com)
     
-* by: [Gesty Linaga](https://github.com/gestylinaga)
+by: [Gesty Linaga](https://github.com/gestylinaga)
 
-    + [see my Notes](https://github.com/gestylinaga/Notes)
++ [see my Notes](https://github.com/gestylinaga/Notes)
 
 ![gestywiki.png](imgs/gestywiki.png)
