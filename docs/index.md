@@ -31,12 +31,14 @@
 + Mac -- Operating System
     - iOS -- iphone OS
 
-### Programming Languages
+### Languages
 
 + [Markdown](Markdown.md) -- For note-taking & blog writing
     - [Cheatsheet](mdCheatsheet.md) -- Syntax Cheatsheet
 
 + Python -- workinprogress
+
++ Bash -- Default shell for Linux/Unix and MacOS
 
 + C -- workinprogress
 
