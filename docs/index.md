@@ -29,7 +29,7 @@
         - [Chocolatey](Chocolatey.md) -- Package Manager
 
 + Mac -- Operating System
-    - iOS -- iphone OS
+    * iOS -- iphone OS
 
 ### Languages
 
@@ -43,12 +43,8 @@
 + C -- workinprogress
 
 ### Raspberry Pi
-+ [Raspberry Pi](RaspberryPi.md) -- Single-Board, ARM-based Computer
-    - **Distributions:**
-    + Raspberry Pi OS (Raspbian) -- Most Popular desktop OS for Raspberry Pi
-    + Retropie -- Retro Remulator front-end
-    + Arch ARM -- arml7 version of Arch distro
-    + Kali ARM -- Operating System focused on network security
++ [Raspberry Pi 4](RaspberryPi.md) -- Quad core 1.5GHz processor; 2GB, 4GB, or 8GB options
+
 
 ---
 
