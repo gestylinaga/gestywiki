@@ -35,7 +35,7 @@ MacOS -- Operating System
 
 + [Markdown](Markdown.md) -- a Markup Language for Formatting Plaintext
     - [Cheatsheet](mdCheatsheet.md) -- Syntax Cheatsheet
-+ Python -- a Programming Language; also a Scripting Language
++ [Python](Python.md) -- a High-Level General-Purpose Programming Language
 + Bash -- Default shell for Linux/Unix and MacOS; also a Scripting Language
 + C -- a Low-Level Programming Language; still the Standard for Modern High-Performance Computing
 
