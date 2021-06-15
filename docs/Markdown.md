@@ -8,6 +8,12 @@
 >
 > - [John Gruber](https://daringfireball.net/projects/markdown/)
 
+```markdown
+# Hello World
+
+This is **Markdown**
+```
+
 Markdown is a lightweight 'Markup' language for formatting plaintext, and veiwing it 
 in a web browser.
 
