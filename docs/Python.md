@@ -5,7 +5,8 @@
 ```python
 #!/usr/bin/python3
 
-print('This is Python')
+def hello_world():
+    print('This is Python')
 ```
 
 Python is a high-level general-purpose programming language that excels in:
